@@ -1,0 +1,1 @@
+Developed a machine learning model to identify fraudulent credit card transactions using Python, handling imbalanced data, feature engineering, and evaluating performance with metrics like Precision, Recall, and AUC-ROC.
